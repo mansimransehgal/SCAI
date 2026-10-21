@@ -1,0 +1,19 @@
+# Dataset files
+/A/
+/B/
+/label/
+/data/
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
+
+# Windows
+desktop.ini
